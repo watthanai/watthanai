@@ -26,16 +26,31 @@ I graduated in bachelor degree from from King Mongkut's University of Technology
 <code><img height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"></code>
 
 <code><img height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"></code>
-<code><img height="34" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
+<code><img height="34" wigth src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="34" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb"></code>
 <code><img height="34" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"></code>
 
 <code><img height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="34" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino"></code>
 <code><img height="34" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"></code>
-<code><img height="34" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Node-red-icon.png" alt="Node-Red"></code>
 
 <code><img height="34" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana"></code>
+<code><img height="34" width="60" src="https://thingsboard.io/images/thingsboard_logo.png" alt="thingboard"></code>
+
+#
+
+### Microsoft Languages and Tools:
+<code><img height="45" src="https://www.askme.co.th/wp-content/uploads/2020/09/PowerBI-Logo.png" alt="powerbi"></code>
+<code><img height="45" src="https://mkr1en1mksitesap.blob.core.windows.net/staging/2021/11/powerapps_200x2001.png" alt="powerapp"></code>
+<code><img height="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBwrDVVXQbI5K0Xchj8QqRqPpuwVoI9daJrg&usqp=CAU" alt="powerautomate"></code>
+
+#
+
+### Industrial Software:
+<code><img height="45" src="https://vectorlogoseek.com/wp-content/uploads/2020/03/osisoft-vector-logo.png" alt="Osipi"></code>
+<code><img height="45" src="https://www.kepware.com/getmedia/8ec863c4-855c-4a8a-8c27-a9da6b05bcb8/Kepware.jpg" alt="Kepware"></code>
 
 #
 
